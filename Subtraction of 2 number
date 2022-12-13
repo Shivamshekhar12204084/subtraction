@@ -1,0 +1,11 @@
+class name
+{
+public static(String args[])
+{
+Scanner sc=new Scanner(System.in);
+int a=sc.nextInt();
+int b=sc.nextInt();
+s=a-b;
+System.out.println("result"+s)
+}
+}
